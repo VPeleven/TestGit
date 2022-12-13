@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "2eedd3c7-a912-4dcf-9f6b-9b2010554659",
+    "PackageVersion": "7.8.0",
+    "Name": "TestGit",
+    "ModifiedOnUtc": "/Date(1670848473000)/",
+    "Maintainer": "Customer",
+    "DependsOn": []
+  }
+}
